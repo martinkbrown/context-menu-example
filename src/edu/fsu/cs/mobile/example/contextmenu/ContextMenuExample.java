@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 public class ContextMenuExample extends ListActivity {
     
-	String[] entries = new String[]{"Martin","Anderson","Junior","George","Dan"};
+	String[] entries = new String[] { "Martin", "Anderson", "Junior", "George", "Dan", "Leon" };
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
